@@ -2,7 +2,7 @@ CURRENT_DIR=$(shell pwd)
 DIST_DIR=${CURRENT_DIR}/dist
 BIN_DIR=target
 
-NAME ?= rpm-java-app-edp
+NAME ?= java-rpm
 ARCH ?= x86_64
 VERSION ?= 0.0.0
 RELEASE ?= SNAPSHOT.1
